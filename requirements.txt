@@ -1,0 +1,9 @@
+httpx
+selectolax
+markdownify
+nest_asyncio
+rank_bm25
+sentence-transformers
+pymorphy3
+groq
+numpy
